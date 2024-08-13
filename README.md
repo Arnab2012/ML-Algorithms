@@ -1,1 +1,1 @@
-# Here are some ML Algorithms from Scratch
+# ML Algorithms from Scratch
